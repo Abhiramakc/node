@@ -1,3 +1,3 @@
 # Learn Node With Me!
 
-Let's learn Node Together!!.
+Let's Node Together!!.
