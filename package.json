@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Abhiramakc/node/issues"
   },
-  "homepage": "https://github.com/Abhiramakc/node#readme"
+  "homepage": "https://github.com/Abhiramakc/node#readme",
+  "dependencies": {
+    "assert": "^2.1.0"
+  }
 }
