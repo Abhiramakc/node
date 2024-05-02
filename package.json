@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Abhiramakc/node#readme",
   "dependencies": {
-    "assert": "^2.1.0"
+    "assert": "^2.1.0",
+    "smallest": "^1.0.1"
   }
 }
